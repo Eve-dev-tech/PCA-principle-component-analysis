@@ -1,5 +1,6 @@
 # PCA-principle-component-analysis
-The objective of this problem is to reduce the number of features by using dimensionality reduction techniques
+The objective of this project is to reduce the number of features by using dimensionality reduction techniques
+It is part of my MIT IDSS Data Science and Machine learning course.
 
 
 
@@ -7,7 +8,7 @@ The objective of this problem is to reduce the number of features by using dimen
 -----------------------------
 ## Context:
 -----------------------------
-In this case study, we will use the Education dataset which contains information on educational institutes in USA. The data has various attributes such as number of applications received, enrollments, faculty education, financial aspects and graduation rate of each institute. 
+In this case study, I will use the Education dataset which contains information on educational institutes in USA. The data has various attributes such as number of applications received, enrollments, faculty education, financial aspects and graduation rate of each institute. 
 
 -----------------------------
 ## Objective: 
